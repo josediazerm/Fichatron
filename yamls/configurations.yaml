@@ -1,0 +1,80 @@
+MAIN_ATTRIBUTES:
+  AGI:
+    COLUMN: "B"
+    ROW: 10
+  APA:
+    COLUMN: "C"
+    ROW: 10
+  CMP:
+    COLUMN: "D"
+    ROW: 10
+  CON:
+    COLUMN: "E"
+    ROW: 10
+  CRE:
+    COLUMN: "F"
+    ROW: 10
+  FOR:
+    COLUMN: "B"
+    ROW: 11
+  INF:
+    COLUMN: "C"
+    ROW: 11
+  PER:
+    COLUMN: "D"
+    ROW: 11
+  PSI:
+    COLUMN: "E"
+    ROW: 11
+  VOL:
+    COLUMN: "F"
+    ROW: 11
+
+SECONDARY_ATTRIBUTES:
+  FUE:
+    COLUMN: "B"
+    ROW: 16
+  SAL:
+    COLUMN: "C"
+    ROW: 16
+  RES:
+    COLUMN: "D"
+    ROW: 16
+  DSA:
+    COLUMN: "E"
+    ROW: 16
+  DCA:
+    COLUMN: "F"
+    ROW: 16
+
+WOUNDS:
+  SUPERFICIAL:
+    THRESHOLD:
+      COLUMN: I
+      ROW: 10
+    ARMOR:
+      COLUMN: J
+      ROW: 10
+    TOTAL:
+      COLUMN: K
+      ROW: 10
+  SERIOUS:
+    THRESHOLD:
+      COLUMN: I
+      ROW: 11
+    ARMOR:
+      COLUMN: J
+      ROW: 11
+    TOTAL:
+      COLUMN: K
+      ROW: 11
+  DEATH:
+    THRESHOLD:
+      COLUMN: I
+      ROW: 12
+    ARMOR:
+      COLUMN: J
+      ROW: 12
+    TOTAL:
+      COLUMN: K
+      ROW: 12
